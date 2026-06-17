@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+scikit-surprise
+scikit-learn
+pandas
+numpy
+pyarrow
